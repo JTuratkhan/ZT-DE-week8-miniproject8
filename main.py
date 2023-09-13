@@ -12,5 +12,5 @@ def calculate_statistics(file_path):
         return str(e)
       
 if __name__ == "__main__":
-    result = calculate_statistics('path/to/your/csvfile.csv')
+    result = calculate_statistics('HRDataset_v14.csv')
     print(result)
