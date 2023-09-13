@@ -3,6 +3,8 @@ def calculate_statistics(file_path):
     try:
         # Reading the dataset from the CSV file
         data = pd.read_csv(file_path)
+        for col in data.columns:
+            data[col] = pd.to_numeric(data[col], errors='coerce')
         # Calculating mean, median and standard deviation
         mean = data.mean()
         median = data.median()
