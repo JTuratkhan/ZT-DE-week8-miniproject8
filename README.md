@@ -1,4 +1,6 @@
 # ZT-DE-week2-miniproject2
+![Python CI](https://github.com/JTuratkhan/ZT-DE-week2-miniproject2/actions/workflows/ci.yml/badge.svg)
+
 Pandas Descriptive Statistics Script
 
 # Summary
