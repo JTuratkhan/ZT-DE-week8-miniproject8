@@ -4,9 +4,9 @@ In this mini-project, the primary aim was to rewrite an existing Python script r
 # Methodology:
 To compare the performance between the Python and Rust implementations, two key metrics were observed:
 
-# Execution time: The duration taken by the script to complete its operations.
+## Execution time: The duration taken by the script to complete its operations.
 Memory Usage: The amount of system memory consumed by the script during its execution.
-## Results:
+### Results:
 Execution Time:
 Language	Time
 Rust	0m0.022s
