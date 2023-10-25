@@ -9,8 +9,8 @@ Memory Usage: The amount of system memory consumed by the script during its exec
 ### Results:
 Execution Time:
 Language	Time
-Rust	0m0.022s
-Python	0m0.892s
+* Rust	0m0.022s
+* Python	0m0.892s
 Note: The Rust version was significantly faster in terms of execution time compared to the Python version. The Rust script completed its execution in just 22 milliseconds, while the Python script took 892 milliseconds. This showcases an almost 40x speed improvement with the Rust implementation.
 
 # Conclusion:
